@@ -6,3 +6,7 @@
 ```javascript
   const addNum = (first, sec) => first + sec;
 ```
+<br>
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Complete Github Foundations
